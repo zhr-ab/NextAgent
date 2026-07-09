@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/.vs/NextAgent/CopilotIndices/18.8.1055.19665
+/.vs/NextAgent.slnx
