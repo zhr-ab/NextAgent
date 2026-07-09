@@ -30,3 +30,5 @@ python NextAgent.py
 ```
 
 7.[下次启动本项目只需执行后三步]
+
+8.另外，第一次使用时请用记事本打开NextAgent.py文件，在第三行**api_key=""** 的引号里填写你的api密钥（在[deepseek官网](deepseek.com)充值token并获取密钥）
